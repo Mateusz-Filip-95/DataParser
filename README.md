@@ -1,0 +1,1 @@
+A single class application that opens the Input.txt file, reads it, parses with a specific pattern and writes into Output.txt sorted descending. It also records the parsing time and writes the time in the first line of the output.txt file.
